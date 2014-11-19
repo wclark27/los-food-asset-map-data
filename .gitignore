@@ -1,2 +1,4 @@
 var/Config.py
-msconfig/*.map
+msconfig/vlayers.map
+msconfig/rlayers.map
+var/Config.pyc
