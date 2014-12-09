@@ -148,13 +148,13 @@ MAP
             STYLE
                 #SYMBOL 'circle'
                 #SIZE 5
-                COLOR 255 0 0 
+                COLOR 255 255 102 
             END
         END		
         METADATA
             "wms_title"          "airports"
             "wms_abstract"       "airports"
-            "gml_include_items"  "arpt_name,class"
+            "gml_include_items"  "arpt_id"
         END  # end METADATA
     END # 	
     LAYER # 
@@ -869,7 +869,7 @@ MAP
         METADATA
             "wms_title"            "geology"
             "wms_abstract"         "geology"
-            "gml_include_items"    "TYPE,FORMATION,DESCRIP_1,DESCRIP_2,DESCRIP_3"
+            "gml_include_items"    "gid"
         END  # end METADATA
     END # end Layer
     

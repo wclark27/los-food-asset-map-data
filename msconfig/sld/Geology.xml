@@ -9,7 +9,7 @@
 					<Title><![CDATA[Alligator Back Formation]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Alligator Back Formation]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -30,7 +30,7 @@
 					<Title><![CDATA[Ashe Metamorphic Suite and Tallulah Falls Formation]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Ashe Metamorphic Suite and Tallulah Falls Formation]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -51,7 +51,7 @@
 					<Title><![CDATA[Chilhowee Group]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Chilhowee Group]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -72,7 +72,7 @@
 					<Title><![CDATA[Intrusive Rocks]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Intrusive Rocks]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -93,7 +93,7 @@
 					<Title><![CDATA[Metamorphic rocks]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Metamorphic rocks]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -114,7 +114,7 @@
 					<Title><![CDATA[Ocoee Supergroup]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Ocoee Supergroup]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -135,7 +135,7 @@
 					<Title><![CDATA[Rome Formation]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Rome Formation]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -156,7 +156,7 @@
 					<Title><![CDATA[Sedimentary and Metamorphic Rocks]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Sedimentary and Metamorphic Rocks]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -177,7 +177,7 @@
 					<Title><![CDATA[Shady Dolomite]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Shady Dolomite]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
@@ -198,7 +198,7 @@
 					<Title><![CDATA[Snowbird Group]]></Title>
 					<ogc:Filter>
 						<ogc:PropertyIsEqualTo>
-							<ogc:PropertyName>GROUP_</ogc:PropertyName>
+							<ogc:PropertyName>group_</ogc:PropertyName>
 							<ogc:Literal><![CDATA[Snowbird Group]]></ogc:Literal>
 						</ogc:PropertyIsEqualTo>
 					</ogc:Filter>
